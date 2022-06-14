@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live demo
+
+[https://raigorx.github.io/react-todo-hook-example/](https://raigorx.github.io/react-todo-hook-example/)
+
 ## Why?
 
 <https://reactjs.org/docs/thinking-in-react.html/> tutorial by the date is made in class based components and no hooks.
