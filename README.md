@@ -1,5 +1,10 @@
 # React todolist example made with functional components and hooks
 
+![CI/CD](https://github.com/raigorx/react-todo-hook-example/workflows/gh-pages-CI/CD/badge.svg)
+![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
+
+<!-- https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live demo
