@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <https://reactjs.org/docs/thinking-in-react.html/> tutorial by the date is made in class based components and no hooks.
 
-Today hooks and functional components are the most popular ways to build React apps, so in lack of a simple tutorial I decided to recreate the tutorial using hooks and functional components and publish it so it can be used as a reference for folks learning react.
+Today hooks and functional components are the most popular ways to build React apps, so I decided to recreate the code tutorial using hooks and functional components and publish it so it can be used as a reference for folks learning react.
 
 ## Available Scripts
 
