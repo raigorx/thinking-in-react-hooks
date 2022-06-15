@@ -1,9 +1,9 @@
 
-# React todo list example made with functional components and hooks
+# React searchable table example made with functional components and hooks
 
 ![The San Juan Mountains are beautiful!](/logo-readme.jpg "San Juan Mountains")
 
-![CI/CD](https://github.com/raigorx/react-todo-hook-example/workflows/gh-pages-CI/CD/badge.svg)
+![CI/CD](https://github.com/raigorx/react-hook-example/workflows/gh-pages-CI/CD/badge.svg)
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
 
 <!-- https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg -->
@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live demo
 
-[https://raigorx.github.io/react-todo-hook-example/](https://raigorx.github.io/react-todo-hook-example/)
+[https://raigorx.github.io/react-hook-example/](https://raigorx.github.io/react-hook-example/)
 
 ## Why?
 

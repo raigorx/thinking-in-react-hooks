@@ -1,8 +1,8 @@
 {
-  "name": "react-todo-example",
+  "name": "react-searchable-table-example",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://raigorx.github.io/react-todo-hook-example/",
+  "homepage": "https://raigorx.github.io/react-hook-example/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
