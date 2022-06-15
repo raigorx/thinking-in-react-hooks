@@ -1,6 +1,6 @@
 {
   "name": "react-todo-example",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://raigorx.github.io/react-todo-hook-example/",
   "dependencies": {
