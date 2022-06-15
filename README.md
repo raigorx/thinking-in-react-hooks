@@ -1,5 +1,5 @@
 
-# React todolist example made with functional components and hooks
+# React todo list example made with functional components and hooks
 
 ![The San Juan Mountains are beautiful!](/logo-readme.jpg "San Juan Mountains")
 
