@@ -1,5 +1,5 @@
 
-# React searchable table example made with functional components and hooks
+# Thinking in react searchable table app made with functional components and hooks
 
 ![The San Juan Mountains are beautiful!](/logo-readme.jpg "San Juan Mountains")
 
