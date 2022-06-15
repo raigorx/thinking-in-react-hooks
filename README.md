@@ -1,4 +1,7 @@
+
 # React todolist example made with functional components and hooks
+
+![The San Juan Mountains are beautiful!](/logo-readme.jpg "San Juan Mountains")
 
 ![CI/CD](https://github.com/raigorx/react-todo-hook-example/workflows/gh-pages-CI/CD/badge.svg)
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
