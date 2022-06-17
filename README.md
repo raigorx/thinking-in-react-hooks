@@ -4,7 +4,7 @@
 ![app logo](/logo-readme.jpg)
 
 ![CI/CD](https://github.com/raigorx/thinking-in-react-hooks/workflows/gh-pages-CI/CD/badge.svg)
-![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
+![License](https://img.shields.io/github/license/raigorx/thinking-in-react-hooks)
 
 <!-- https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg -->
 
