@@ -3,7 +3,7 @@
 
 ![app logo](/logo-readme.jpg)
 
-![CI/CD](https://github.com/raigorx/react-hook-example/workflows/gh-pages-CI/CD/badge.svg)
+![CI/CD](https://github.com/raigorx/thinking-in-react-hooks/workflows/gh-pages-CI/CD/badge.svg)
 ![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
 
 <!-- https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg -->
