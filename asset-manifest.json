@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-hook-example/static/css/main.5d8c69c0.css",
-    "main.js": "/react-hook-example/static/js/main.968bdc2e.js",
-    "index.html": "/react-hook-example/index.html",
-    "main.5d8c69c0.css.map": "/react-hook-example/static/css/main.5d8c69c0.css.map",
-    "main.968bdc2e.js.map": "/react-hook-example/static/js/main.968bdc2e.js.map"
+    "main.css": "/thinking-in-react-hooks/static/css/main.5d8c69c0.css",
+    "main.js": "/thinking-in-react-hooks/static/js/main.968bdc2e.js",
+    "index.html": "/thinking-in-react-hooks/index.html",
+    "main.5d8c69c0.css.map": "/thinking-in-react-hooks/static/css/main.5d8c69c0.css.map",
+    "main.968bdc2e.js.map": "/thinking-in-react-hooks/static/js/main.968bdc2e.js.map"
   },
   "entrypoints": [
     "static/css/main.5d8c69c0.css",
