@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live demo
 
-[https://raigorx.github.io/react-hook-example/](https://raigorx.github.io/react-hook-example/)
+[https://raigorx.github.io/thinking-in-react-hooks/](https://raigorx.github.io/thinking-in-react-hooks/)
 
 ## Why?
 
